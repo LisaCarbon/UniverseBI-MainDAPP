@@ -16,7 +16,7 @@ $(function () {
 				"0x": {name: "BI"},
 				"0x75CF02680c90FF4069fC2c2dA86ead4416F0e18f": {name: "DOGX"},
 				"0xed216d044B969Fba124f3fbFaa28eAFcD4f865e4": {name: "0xDOG"},
-				"0xFAeCCAe83A0eb7266C6B87070bf2ad4EcDc1Fc0e": {name: "USDT"},
+				"0xFAeCCAe83A0eb7266C6B87070bf2ad4EcDc1Fc0e": {name: "USDT"}
 			}}
 		},
 		pairs : [
